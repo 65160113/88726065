@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function () {
         todos.splice(index, 1);
         renderTodoList();
     }
-    function toggleComplete(index) {
+     function toggleComplete(index) {
         todos[index].completed = !todos[index].completed;
         renderTodoList();
     }
