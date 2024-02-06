@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "High Speed Problem Solving",
+        "price": "200",
+        "author": [
+            "Nat",
+            "Nee",
+            "Jame"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Principles For Success",
+        "price": "545",
+        "author": [
+            "Game",
+            "Boy",
+            "Joy"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Testing Business Ideas",
+        "price": "165",
+        "author": [
+            "Jameco",
+            "Almon",
+            "Bacon"
+        ]
+    }
+]
